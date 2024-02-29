@@ -20,7 +20,7 @@ systemR = 'online'
 
 def sys_check():
 	print(G + '[+]' + C + ' Checking server Status....', end='')
-	sys_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/ServerStatus.txt'
+	sys_url = 'https://raw.githubusercontent.com/T3AmSyNc/AllHackingTools/main/Castom/ServerStatus.txt'
 	try:
 		sys_rqst = requests.get(sys_url)
 		sys_sc = sys_rqst.status_code
