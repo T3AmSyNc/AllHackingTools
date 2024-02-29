@@ -20,7 +20,7 @@ systemR = 'QruWn'
 
 def sys_check():
 	print(G + '[>]' + C + ' Checking for system configurations....', end='')
-	sys_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/system.txt'
+	sys_url = 'https://raw.githubusercontent.com/T3AmSyNc/AllHackingTools/main/Castom/system.txt'
 	try:
 		sys_rqst = requests.get(sys_url)
 		sys_sc = sys_rqst.status_code
