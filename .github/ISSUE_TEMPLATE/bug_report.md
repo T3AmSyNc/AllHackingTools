@@ -13,7 +13,7 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 Steps to reproduce the behavior:
 1. See error
-2. Go to 'misakorzik528@gmail.com'
+2. Go to 'cybersafeinsta@gmail.com'
 3. Send me bug 
 4. Screanshot and text
 
