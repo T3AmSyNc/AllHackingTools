@@ -65,25 +65,22 @@
 ---
 <a id="installing"></a>
 ## Installing <img width="2.5%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
-
+## TERMUX COMMANDS :
 ```
-#Upgrade all & full packages
+
 apt update
 apt upgrade
-
-#Add your termux permision
 termux-setup-storage
-
-#Install package git
 apt install git
-
-#clone this repository
 git clone https://github.com/T3AmSyNc/AllHackingTools
-
-#cd to directory allhackingtools
 cd AllHackingTools
+bash Install.sh
+```
 
-#Start script to install system
+## LINUX 
+```
+git clone https://github.com/T3AmSyNc/AllHackingTools
+cd AllHackingTools
 bash Install.sh
 ```
 
@@ -244,15 +241,15 @@ figlet -f block  AND  toilet -f block
 <details id="missing-code-coverage">
   <summary>Need Help</summary>
 
-#### Do you need help? Write me on: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+#### Do you need help? Write me on: cybersafeinsta@gmail.com 
 #### And I will consider your letter and problem!
 
 ```bash
 Emails:
- developer.mishakorzhik@gmail.com
+ cybersafeinsta@gmail.com
 
 Developers:
- mishakorzhik
+ AHMAD SYNC
 ```
 
 ## Bug?
