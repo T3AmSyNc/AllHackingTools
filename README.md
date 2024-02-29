@@ -1,19 +1,19 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
+
 
 <p align="center">
-<a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
+<a href="https://github.com/T3AmSyNc/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
+<a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.8-red?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/T3AmSyNc"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/T3AmSyNc"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
 
 </p>
 
 <p align="center">
-• <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a> •
+• <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/LICENSE">License</a> 
+• <a href="https://github.com/T3AmSyNc/AllHackingTools/issues">Issues</a> 
+• <a href="https://github.com/T3AmSyNc/AllHackingTools/projects">Project</a> 
+• <a href="https://github.com/T3AmSyNc/AllHackingTools/wiki">Wikipedia</a> •
 
 </p>
 
@@ -23,18 +23,18 @@
 
 #### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
 
-> I am not responsible for your actions. By downloading software from this repository, you agree to the [license](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
+> I am not responsible for your actions. By downloading software from this repository, you agree to the [license](https://github.com/T3AmSyNc/AllHackingTools/blob/main/LICENSE).
 
 ---------
 ## Supported systems
 #### will download 5-20 minutes
 
-<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Supported-Termux-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/T3AmSyNc"><img title="Termux" src="https://img.shields.io/badge/Supported-Termux-blue?style=for-the-badge&logo=github"></a>
 
 **Here on these systems works AllHackingTools** <br>
 ## Tool tested on:
 
-<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/T3AmSyNc"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
 
 ------------------------------
 > If you do not understand anything then there is a [translate](#Translate).
@@ -78,7 +78,7 @@ termux-setup-storage
 apt install git
 
 #clone this repository
-git clone https://github.com/mishakorzik/AllHackingTools
+git clone https://github.com/T3AmSyNc/AllHackingTools
 
 #cd to directory allhackingtools
 cd AllHackingTools
@@ -115,27 +115,27 @@ ngrok http 80
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
 ## AllHackingTool Menu:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/aspect-ratio-fill.svg"/>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Information Gathering</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Exploitation Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Sniffing and Spoofing</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Web Attack Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Cam Hacking Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Remote Trojan RAT</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SQL Injection Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce</a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">DDOS Attack Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Phishing Attack Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Hash Cracking Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Worldlist Generator</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">XSS Attack Tools</a>
-- <a href="https://github.com/mishakorzik">Discord Leaks</a>
-- <a href="https://github.com/mishakorzik">Telegram Info</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Web Crawling</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Wireless attack Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Other Tools</a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Free Proxy</a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Mix Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Information Gathering</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Exploitation Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Sniffing and Spoofing</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Web Attack Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Cam Hacking Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Remote Trojan RAT</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">SQL Injection Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce</a>
+     - <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">DDOS Attack Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Phishing Attack Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Hash Cracking Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Worldlist Generator</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">XSS Attack Tools</a>
+- <a href="https://github.com/T3AmSyNc">Discord Leaks</a>
+- <a href="https://github.com/T3AmSyNc">Telegram Info</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Web Crawling</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Wireless attack Tools</a>
+- <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Other Tools</a>
+     - <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Free Proxy</a>
+     - <a href="https://github.com/T3AmSyNc/AllHackingTools/blob/main/.github/TOOLS.md">Mix Tools</a>
 
 <details id="missing-code-coverage">
   <summary>New Commands</summary>
@@ -262,7 +262,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+   email: cybersafeinsta@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 
 3. Submit the screenshot and explain 
    your problem with that error
@@ -379,14 +379,6 @@ Desing:
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
 </details>
 
-<a id="depencies"></a>
-
-## Dependencies
-#### If all this is then you can download!
-
-**Root     : NO ROOT**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/terminal-fill.svg"/> <br>
-**Storage  : 2200 MB**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/> <br>
-**Internet : must be**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/> <br>
 
 #### Okay let's go installing! If it shows Are you rooted? Then ignore it!
 ---------
@@ -404,13 +396,8 @@ Desing:
 * `zsh` `ngrok`
 
 #### And more packages!
-------
-## Donate
+----
 
-**If you want to donate, click on the button**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
-
----
 
 ## Screanshot <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/card-image.svg"/>
 #### view a screanshot for AllHackingTools
