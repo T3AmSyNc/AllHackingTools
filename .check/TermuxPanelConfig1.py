@@ -20,7 +20,7 @@ systemR = 'WJins82bsOx'
 
 def sys_check():
 	print(G + '[+]' + C + ' Checking for system configurations....', end='')
-	sys_url = 'https://raw.githubusercontent.com/3AmSyNc/AllHackingTools/main/Castom/systemfile.txt'
+	sys_url = 'https://raw.githubusercontent.com/T3AmSyNc/AllHackingTools/main/Castom/systemfile.txt'
 	try:
 		sys_rqst = requests.get(sys_url)
 		sys_sc = sys_rqst.status_code
