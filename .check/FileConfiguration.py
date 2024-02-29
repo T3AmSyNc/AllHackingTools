@@ -20,7 +20,7 @@ sysfile = 'WJins82bsOx'
 
 def sysfile_check():
 	print(G + '[>]' + C + ' Checking for files configurations....', end='')
-	file_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/systemfile.txt'
+	file_url = 'https://raw.githubusercontent.com/T3AmSyNc/AllHackingTools/main/Castom/systemfile.txt'
 	try:
 		file_rqst = requests.get(file_url)
 		file_sc = file_rqst.status_code
