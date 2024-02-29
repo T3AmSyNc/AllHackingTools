@@ -126,8 +126,8 @@ echo '
 ██║░░██║██║░░██║██║╚████║██╔══╝░░
 ██████╔╝╚█████╔╝██║░╚███║███████╗
 ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
-Developer : mishakorzhik
-created on: 23 05 2021
+Developer : KASHU AHMAD
+created on: 23 02 2024
 code      : python, bash, php
 '|lolcat -p 1.0
 echo -e $b"[^_^]"$w" AllHackingTools donate: "$g"https://www.buymeacoffee.com/misakorzik"$w
